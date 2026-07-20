@@ -16,7 +16,7 @@
 
 ## 👋 About This Repository
 
-This repository documents my complete **12-month learning roadmap** for becoming a professional **Agentic AI Engineer**.
+This repository documents my complete **12-month learning roadmap** for becoming a professional **Agentic AI Engineer*.
 
 It is designed as both:
 
