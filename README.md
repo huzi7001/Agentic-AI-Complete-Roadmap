@@ -26,6 +26,7 @@ It is designed as both:
 My main focus is:
 
 - **Python*
+- *
 - **Machine Learning**
 - **LLMs**
 - **RAG**
